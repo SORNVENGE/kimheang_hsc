@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881614368812",
+    "project_id": "hsc-project-e59ef",
+    "storage_bucket": "hsc-project-e59ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881614368812:android:3962ef67b2db787ec7a189",
+        "android_client_info": {
+          "package_name": "com.hsc.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881614368812-p1sacce3qbka8m71spv20uofthp21kna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDue1lCtJiMThuwS-MYgKI8JXaKOOHeyNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881614368812-p1sacce3qbka8m71spv20uofthp21kna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
